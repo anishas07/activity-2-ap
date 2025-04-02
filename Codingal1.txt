@@ -1,0 +1,1 @@
+hello, this is write mode.This file is in append mode.
